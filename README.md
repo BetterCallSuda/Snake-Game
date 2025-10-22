@@ -16,7 +16,7 @@ git clone https://github.com/BetterCallSuda/Snake-Game.git
 cd Snake-Game
 python main.py
 
-**🧠 Learning**
+## 🧠 Learning 
 This project in Python, helping me understand:
 Object-Oriented Programming
 The Turtle Graphics module
